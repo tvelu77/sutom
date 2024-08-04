@@ -1,0 +1,6 @@
+# In this file, you can set multiple in game options, such as the path of the "lexique" file.
+# These values are default values to make sure that the program will work.
+# Please, respect the general style of the file :
+# EXAMPLE_VALUE = VALUE
+
+WORDS_FILE = data/Lexique383.tsv
